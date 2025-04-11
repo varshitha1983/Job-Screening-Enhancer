@@ -1,0 +1,11 @@
+streamlit
+sentence-transformers
+yagmail
+PyMuPDF
+spacy
+scikit-learn
+matplotlib
+pandas
+numpy
+plotly
+sqlite3  # optional, included with Python
