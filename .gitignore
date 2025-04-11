@@ -1,0 +1,16 @@
+*.mp4
+*.mkv
+*.avi
+*.mov
+*.zip
+__pycache__/
+*.env
+.env
+*.mp4
+*.mkv
+*.avi
+*.mov
+*.zip
+__pycache__/
+*.env
+.env
